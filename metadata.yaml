@@ -1,0 +1,28 @@
+_repo: Tent-Life-in-Siberia--13-A-New-Account-of-an-Old-Undertaking--Adventures-among-the-Koraks-and__12328
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kennan, George
+    birthdate: 1845
+    deathdate: 1924
+    gutenberg_agent_id: '4318'
+    url: http://www.gutenberg.org/2009/agents/4318
+    wikipedia: http://en.wikipedia.org/wiki/George_Kennan_%28explorer%29
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12328'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Siberia, Eastern (Russia) -- Description and travel'
+- !lcsh 'Kennan, George, 1845-1924'
+- !lcsh 'Kamchatka Peninsula (Russia) -- Description and travel'
+- !lcc 'DK'
+- GITenberg
+title: "Tent Life in Siberia\r\nA New Account of an Old Undertaking; Adventures among\
+  \ the Koraks and Other Tribes In Kamchatka and Northern Asia"
+url: http://www.gutenberg.org/ebooks/12328
